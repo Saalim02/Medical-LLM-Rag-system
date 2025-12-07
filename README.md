@@ -1,3 +1,7 @@
+This project uses the OpenAI API, which requires a private API key.
+To avoid exposing the key or asking every user to provide one, the project is shared as a local demo only.
+i can show you how it work live in interview.
+
 🔍 How It Works (RAG Pipeline Summary)
 This chatbot uses a Retrieval-Augmented Generation (RAG) workflow to answer medical questions accurately.
 
