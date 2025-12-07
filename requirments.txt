@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+tiktoken
+numpy
+pandas
+python-dotenv
+openai>=1.0.0
+sentence-transformers
+pypdf
+regex
+tqdm
